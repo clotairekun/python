@@ -1,2 +1,2 @@
 # python
-学习python资料
+个人自学python资料，各种项目！！！
